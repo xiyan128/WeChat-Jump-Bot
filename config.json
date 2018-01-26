@@ -1,0 +1,7 @@
+{
+    "dev": true,
+    "press_coefficient": 2,
+    "piece_top_to_base_height": 130,
+    "piece_body_height": 145,
+    "piece_body_width": 54
+}
